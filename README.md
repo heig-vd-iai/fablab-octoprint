@@ -316,11 +316,7 @@ For the Hotend & extruder
 
 ![30](https://user-images.githubusercontent.com/69343914/91181631-71d87100-e6e9-11ea-852a-069402b6b12f.jpg)
 
-And for the axes
-
-![31](https://user-images.githubusercontent.com/69343914/91181633-72710780-e6e9-11ea-901f-f49d3595f18f.jpg)
-
-Don't forgot to invert the Z Axis control!
+And for the axes let the default values.
 
 6.  Disable those two options
 
